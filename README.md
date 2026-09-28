@@ -36,7 +36,7 @@ Full research + Master Class questions live in the team pitch Doc (link in GC / 
 
 ## Repo status
 
-Scaffold only. Next: lock MVP slice for Oct submission (demo path + what we will *not* build).
+Scaffold + deep dive (see `docs/deep-dive-2026-09-28.md`). Next: freeze MVP cut, build ≤90s happy-path demo for Oct 12–25 proposal.
 
 ## Links
 
